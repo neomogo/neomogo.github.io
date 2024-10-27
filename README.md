@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: [Date]**
+**Last Updated: [10/27/2024]**
 
 [neomogo] ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website [https://neomogo.com], use our services, or interact with us. By accessing or using our website, you agree to the collection and use of information in accordance with this policy.
 
